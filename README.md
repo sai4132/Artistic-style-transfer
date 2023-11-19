@@ -9,4 +9,4 @@ pillow <br>
 torchvision <br>
 
 Keep your original image and art image in same folder as the jupyter notebook. <br>
-You can change the influence of the art in resultant image by adjusting weights in the loss function (clarly commented in the jupyter notebook). <br>
+You can change the influence of the art in resultant image by adjusting weights in the loss function (clearly commented in the jupyter notebook). <br>
