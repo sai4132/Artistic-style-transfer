@@ -1,4 +1,4 @@
-# Artistic-style-transfer
+# Artistic-style-transfer#
 
 Objective of the assignment is to build a model that copies the artistic style of an art to a given natural image.
 
